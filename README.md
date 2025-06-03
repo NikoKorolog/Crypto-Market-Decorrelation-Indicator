@@ -10,4 +10,4 @@ correlate really nicely with big market movements and spikes in price over a lon
 The way I would trade this is dollar cost average in on all the buy signals and then dollar cost average out on sell signals, or even dump the whole trade on the first sell signal.
 Just based upon how it looks if you traded on this it would result in profit.
 
-The next step for this strategy is back-testing which I will do in my next project
+The next step for this strategy is back-testing which I will do in my next project. If it proves I will then try dollar cost averaging on this schedule, maybe dogecoin or something fun.
